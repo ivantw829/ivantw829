@@ -15,7 +15,8 @@
 
 - **OuO Bot**：Discord 機器人，營運五年，約 4,800 個群組使用中
 - [看我說（kan-wo-shuo）](https://github.com/ivantw829/kan-wo-shuo)：打字後以大字全螢幕顯示的輔助溝通網頁
-- [claude-queue](https://github.com/ivantw829/claude-queue)：Chrome 擴充功能，claude.ai 用量達上限時保存訊息
+- [claude-queue](https://github.com/ivantw829/claude-queue)：Chrome 擴充功能，claude.ai 用量達上限時保存訊息，到期後自動重設。
+- [gemini-queue](https://github.com/ivantw829/gemini-queue)：Chrome 擴充功能，gemini.google.com 用量自動重設。
 
 ## 📬 其他地方找到我
 
